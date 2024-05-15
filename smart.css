@@ -1290,11 +1290,11 @@ display: none;
     }
 
     .time {
-        padding-top: 100px;
+        padding-top: 50px;
       }
 
       .sobre {
-        padding: 100px 10px 100px 10px;
+        padding: 0px 10px 100px 10px;
       }
     
       .card-sobre {
