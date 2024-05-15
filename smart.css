@@ -1079,6 +1079,7 @@ display: none;
         font-weight: 700;
         width: 100%;
         padding: 50px 10px 50px 10px;
+        text-shadow: none;
     }
 
     .cartao-section-dois-1 {
