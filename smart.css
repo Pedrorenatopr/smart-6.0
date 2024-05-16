@@ -1291,6 +1291,7 @@ display: none;
 
     .time {
         padding-top: 50px;
+        padding-bottom: 50px;
       }
 
       .sobre {
@@ -1317,7 +1318,8 @@ display: none;
       .titulo-um-sobre h2 {
         font-size: 25px;
         width: 100%;
-        padding-top: 0;
+        padding: 0 10px 0 10px;
+        text-align: left;
       }
     
       .fundo-sobre {
@@ -1329,7 +1331,6 @@ display: none;
     
       .texto-sobre {
         width: 100%;
-        text-align: center;
         padding: 0 1em 0 1em;
 
       }
