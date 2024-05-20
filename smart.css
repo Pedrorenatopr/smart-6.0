@@ -1134,10 +1134,17 @@ display: none;
 
 
     .img-card-tres-mobile {
-        display: block;
+        display: flex;
+        width: 100%;
         max-width: 350px;
-
     }
+
+    .img-card-tres {
+      display: flex;
+      justify-content: center;
+    }
+
+   
 
     .img-card-tres-web {
         display: none;
