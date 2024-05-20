@@ -820,6 +820,27 @@ section.depoimentos {
     background-color: #151515;
   }
 
+
+  .redes {
+    color: white;
+    list-style: none;
+    line-height: 30px;
+    padding-top: 15px;
+  }
+
+  .redes a {
+    color: white;
+  }
+
+  .card-redes {
+    display: flex;
+    align-items: center;
+  }
+
+  .card-redes img {
+    margin-right: 10px;
+  }
+
   .img-footer {
     display: flex;
     align-self: center;
